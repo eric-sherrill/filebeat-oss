@@ -1,4 +1,4 @@
-FROM alpine:3.16.7
+FROM alpine:3.18.5
 LABEL website="Secure Docker Images https://secureimages.dev"
 LABEL description="We secure your business from scratch."
 LABEL maintainer="support@secureimages.dev"
